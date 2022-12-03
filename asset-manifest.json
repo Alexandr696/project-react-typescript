@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-react-typescript/static/css/main.c30fa73b.css",
+    "main.js": "/project-react-typescript/static/js/main.467aa518.js",
+    "index.html": "/project-react-typescript/index.html",
+    "main.c30fa73b.css.map": "/project-react-typescript/static/css/main.c30fa73b.css.map",
+    "main.467aa518.js.map": "/project-react-typescript/static/js/main.467aa518.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c30fa73b.css",
+    "static/js/main.467aa518.js"
+  ]
+}
